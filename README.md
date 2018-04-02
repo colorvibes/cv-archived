@@ -28,3 +28,11 @@ At colorvibes, we are focused on end-user comfort and satisfaction not only in o
 | Newsletters & Email Marketing 
 
 
+# Contact
+
+Question ? Queries ?
+Please send us your businesss/personal letter now. We are very happy to receive suggestions and ideas from you as well.
+
+Design Team : [design@colorvibes.in](mailto:design@colorvibes.in)
+
+Any other business : [works@colorvibes.in](mailto:works@colorvibes.in)
