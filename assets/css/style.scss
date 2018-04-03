@@ -60,8 +60,8 @@ background-color: #009aff;
 
 /* section header -----------------------*/
 .section_head {font-size:16px; font-weight: 300; color: #252525; line-height: 160%; padding: 0px; #background-color: #000; border: 0px solid #fff; margin: 0px;}
-.section_head h1 {font-size: 40px; font-weight: 300; ttext-transform:uppercase; padding-bottom: 5px; color: #000; text-align: center;}
-.section_head h2 {font-size: 34px; font-weight: 300; ttext-transform:uppercase; padding-bottom: 5px; color: #000; text-align: center;}
+.section_head h1 {font-size: 40px; font-weight: 300; text-transform:none; padding-bottom: 5px; color: #000; text-align: center;}
+.section_head h2 {font-size: 34px; font-weight: 300; text-transform:none; padding-bottom: 5px; color: #000; text-align: center;}
 .section_head h5 {font-size: 32px; font-weight: 700; padding-bottom: 5px; color: #19b900; text-align: right;}
 .section_head h3 {font-size: 36px; font-weight: 400; padding-bottom: 15px; padding-top: 10px;  color: #000}
 .section_head p {padding-bottom: 5px; padding-top: 5px; }
@@ -69,4 +69,4 @@ background-color: #009aff;
 .section_head a {font-weight: 300; color: #19b900;}
 /*------section header-----*/
 
-.site-footer{padding-top:2rem;margin-top:2rem;border-top:solid 1px #eff0f1}@media screen and (min-width: 64em){.site-footer{font-size:1rem}}@media screen and (min-width: 42em) and (max-width: 64em){.site-footer{font-size:1rem}}@media screen and (max-width: 42em){.site-footer{font-size:0.9rem}}.site-footer-owner{display:block;font-weight:bold}.site-footer-credits{color:#819198}
+.site-footer{padding-top:0rem;margin-top:0rem;border-top:solid 0px #eff0f1}@media screen and (min-width: 64em){.site-footer{font-size:1rem}}@media screen and (min-width: 42em) and (max-width: 64em){.site-footer{font-size:1rem}}@media screen and (max-width: 42em){.site-footer{font-size:0.9rem}}.site-footer-owner{display:block;font-weight:bold}.site-footer-credits{color:#819198}
