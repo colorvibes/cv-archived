@@ -269,6 +269,38 @@
 		</table>
 	</div>	
 
+	<a id="footer">&nbsp</a>
+	<div style="padding: 0px; margin: 0px;
+	background-color: #eee;
+	background:url(images/bbg-idea-bulb.jpg) no-repeat center center; 
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	webkit-background-size:cover;
+	background-size:cover;
+	height:100px;
+	margin-top:-15px;
+	overflow:hidden;
+	position:relative;
+	-ms-background-size:cover;">
+		<table width="966px" cellspacing=0 cellpadding=0 border=0 style="padding: 0px; ">
+		<tr>
+		<td align=left>	
+		  <div class="section_head">				
+			<footer class="site-footer">
+			{% if site.github.is_project_page %}
+			  <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+			{% endif %}
+			<span class="site-footer-owner"><a href="./">colorvibes | 2018 </a></span>
+			<span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+			<span class="site-footer-credits">Hosted on <a href="https://pages.github.com">GitHub Pages</a>.</span>
+		      </footer>
+				
+		  </div>
+		</td>
+		</tr>
+		</table>
+	</div>
+
 </td>
 </tr>
 </table>  
@@ -285,7 +317,7 @@
         <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         <span class="site-footer-credits">Hosted on <a href="https://pages.github.com">GitHub Pages</a>.</span>
       </footer>
-    </section>
+    <!--- /section --->
 
     {% if site.google_analytics %}
       <script type="text/javascript">
